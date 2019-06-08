@@ -1,0 +1,8 @@
+## Interface: 80100
+## Title: AdiBags: |cff69ccf0PetFood|r
+## Notes: Filter pet food seperately
+## Author: PrivateSniper
+## Version: 1.0.0
+## Dependencies: AdiBags
+
+main.lua
