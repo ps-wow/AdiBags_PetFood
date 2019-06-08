@@ -49,6 +49,12 @@ function AdiBags_PetFood:GetOptions()
             type = 'toggle',
             order = 70,
         },
+        fruit = {
+            name = "fruit",
+            desc = 'Fruit',
+            type = 'toggle',
+            order = 70,
+        },
         bread = {
             name = "bread",
             desc = 'Bread',

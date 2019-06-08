@@ -1,0 +1,6 @@
+ignore:
+  - README.md
+  - .editorconfig
+  - .github
+  - CHANGELOG.md
+  - screenshots
