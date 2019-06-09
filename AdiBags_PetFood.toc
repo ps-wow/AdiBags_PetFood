@@ -1,6 +1,6 @@
 ## Interface: 80100
 ## Title: AdiBags: |cff69ccf0PetFood|r
-## Notes: Filter pet food seperately
+## Notes: Filter pet food in bags
 ## Author: PrivateSniper
 ## Version: 1.0.0
 ## Dependencies: AdiBags
